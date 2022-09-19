@@ -1,1 +1,3 @@
-This is a third test. test local branch
+This is a third
+there is no conflict
+test. test local branch
